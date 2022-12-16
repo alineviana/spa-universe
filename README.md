@@ -20,6 +20,7 @@
 
 > ## 🖥️ Tecnologias
 <br>
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=25px/> HTML5
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=25px/> CSS3
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=25px/> JavaScript
+
+- HTML5
+- CSS3
+- JavaScript
