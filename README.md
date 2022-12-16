@@ -7,9 +7,11 @@
 <br>
 
 > ## 📝 Conceitos estudados
-- Conceitos de SPA;
+<br>
+
+- SPA (Single-Page Application);
 - Mapeamento de rotas;
-- Assíncrono e promises;
+- Assincronismo e promises;
 - Orientação a objetos;
 - Classes;
 - Responsividade.
@@ -18,4 +20,6 @@
 
 > ## 🖥️ Tecnologias
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50px/> 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=25px/> HTML5
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=25px/> CSS3
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=25px/> JavaScript
