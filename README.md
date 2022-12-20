@@ -1,9 +1,8 @@
 # Projeto 10 | Programa Explorer da Rocketseat
 
 - Construindo uma Single-Page Application (SPA)
-<br>
 
-<img src="./assets/preview.png" width=450> <img src="./assets/preview1.png" height=224>
+<img src="./assets/preview.png" width=550> <img src="./assets/preview1.png" height=273>
 
 Clique [AQUI](https://spa-universe-4bh52utt2-alineviana.vercel.app/) para acessar o projeto
 
