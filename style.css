@@ -30,7 +30,6 @@ nav {
     align-items: center;
     
     margin: 5rem 2.6rem;
-    gap: 1.6rem;
 }
 
 nav a {
@@ -47,16 +46,22 @@ nav a:hover {
     font-weight: bolder;
 }
 
-svg {
-    height: 2.5rem;
+nav a:focus {
+    color: var(--color-nav-a-hover);
+    font-weight: bolder;
 }
 
-p {
-    font-size: 1.6rem;
-    text-align: start;
+svg {
+    height: 2.3rem;
+}
 
-    margin: 2rem 4rem 0 6rem;
-    text-shadow: 0.1rem 0.6rem 0.9rem rgba(0, 0, 0, 0.6);
+ul {
+    display: flex;
+    gap: 3.2rem;
+}
+
+li {
+    list-style: none;
 }
 
 button {
@@ -111,12 +116,21 @@ button a {
     text-shadow: 0.5rem 0.6rem 0.8rem rgba(0, 0, 0, 0.6);
 }
 
-.explorer {
+.universe p {
+    font-size: 1.6rem;
+    line-height: 2.6rem;
+    text-align: start;
+
+    margin: 2rem 3.5rem 0 6rem;
+    text-shadow: 0.1rem 0.6rem 0.9rem rgba(0, 0, 0, 0.6);
+}
+
+.exploration {
     background: url(./assets/mountains-universe-3.png) no-repeat center fixed;
     background-size: cover;
 }
 
-.explorer h1 {
+.exploration h1 {
     font-size: 3.2rem;
     font-weight: 700;
     text-align: start;
@@ -125,9 +139,13 @@ button a {
     text-shadow: 0.5rem 0.6rem 0.8rem rgba(0, 0, 0, 0.6);
 }
 
-.active {
-    color: aqua;
-    font-weight: bolder;
+.exploration p {
+    font-size: 1.6rem;
+    line-height: 2.4rem;
+    text-align: start;
+
+    margin: 2rem 3.2rem 0 6rem;
+    text-shadow: 0.1rem 0.6rem 0.9rem rgba(0, 0, 0, 0.6);
 }
 
 @media (min-width: 768px) {
@@ -163,17 +181,21 @@ button a {
 
     .universe p {
         font-size: 1.8rem;
-        margin: 2.5rem 65rem 0 12rem;
+        line-height: 2.6rem;
+
+        margin: 2.5rem 54rem 0 12rem;
     }
 
-    .explorer h1 {
+    .exploration h1 {
         font-size: 4.8rem;
         margin: 9rem 0 0 12rem;
     }
 
-    .explorer p {
+    .exploration p {
         font-size: 1.8rem;
-        margin: 2.5rem 59rem 0 12rem;
+        line-height: 2.6rem;
+
+        margin: 2.5rem 58rem 0 12rem;
     }
 }
 
@@ -199,16 +221,20 @@ button a {
 
     .universe p {
         font-size: 2.0rem;
-        margin: 2rem 77rem 0 17rem;
+        line-height: 2.8rem;
+
+        margin: 2rem 75rem 0 17rem;
     }
 
-    .explorer h1 {
+    .exploration h1 {
         font-size: 5.6rem;
         margin: 9rem 0 0 17rem;
     }
 
-    .explorer p {
+    .exploration p {
         font-size: 2.0rem;
-        margin: 2rem 77rem 0 17rem;
+        line-height: 2.8rem;
+
+        margin: 2rem 73.5rem 0 17rem;
     }
 }

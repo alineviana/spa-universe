@@ -33,8 +33,8 @@ export default class Router {
             body.className = 'universe';
             break;
       
-          case '/explorer':
-            body.className = 'explorer';
+          case '/exploration':
+            body.className = 'exploration';
             break;
       
           default:
